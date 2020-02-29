@@ -1,0 +1,5 @@
+# !/bin/bash
+pwd
+date
+echo $PATH
+TZ = "moscow" date +'%D/%T'
